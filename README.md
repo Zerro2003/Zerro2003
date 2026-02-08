@@ -44,7 +44,8 @@ I am a passionate developer focused on practical software engineering, building 
 
 ### 📊 Activity Pulse
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerro2003&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zerro2003&show_icons=true&theme=tokyonight" alt="Mugisha's Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zerro2003&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </div>
 
 <p align="center">
