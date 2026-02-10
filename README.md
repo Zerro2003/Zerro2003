@@ -1,4 +1,4 @@
-# I’m Elie Mugisha.
+# I’m Elie Mugisha
 I am a passionate developer focused on practical software engineering, building scalable web applications and seamless user experiences. Currently honing my skills in full-stack architecture and automated CI/CD pipelines.
 
 <div align="center">
